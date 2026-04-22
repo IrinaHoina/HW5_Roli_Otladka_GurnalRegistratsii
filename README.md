@@ -94,7 +94,11 @@
 ### Ошибки и отладка
 <img width="1898" height="991" alt="Ошибка исправлена" src="https://github.com/user-attachments/assets/6bb4200b-67ce-46c1-925a-b16ff3d26534" />
 <img width="1911" height="1110" alt="Отладка и ошибка" src="https://github.com/user-attachments/assets/80db7385-0a9a-4d35-8d12-db3be65c843b" />
-<img width="615" height="635" alt="Screenshot_17" src="https://github.com/user-attachments/assets/0604964e-43f2-4f87-8c5d-8be5c5fad83c" />
 <img width="1093" height="889" alt="ошибки 2" src="https://github.com/user-attachments/assets/26922f40-6919-4cc6-815f-96b7c350cbde" />
+
+### Журнал регистраций
+
+<img width="1351" height="667" alt="Журнал регистраций9" src="https://github.com/user-attachments/assets/6010ead1-c2ee-4611-a992-b21c45b66de3" />
+
 
 
